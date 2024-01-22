@@ -9,5 +9,6 @@ Analysis of satellite data using Copernicus Sentinels satellites imagery.
  - `anisotrypy_50km_01112002_15032003.gif` shows the anisotropy, at a 50 km scale, of the sea ice concentration shown on `SeaIce_01112002_15032003.gif`.
  - `anisotrypy_100km_01112002_15032003.gif` shows the anisotropy, at a 100 km scale, of the sea ice concentration shown on `SeaIce_01112002_15032003.gif`.
  - `Report_french.pdf` is a report, in french, of my master work, detailing the anistropy computation.
+ - `toolbox` is a folder of matlab scripts to perform sea ice anisotropy analysis.
 
 The anisotropy, at a given scale, of the sea ice concentration field tends to identify leads, of structured groups of leads whose sizes are close to the scale. 
